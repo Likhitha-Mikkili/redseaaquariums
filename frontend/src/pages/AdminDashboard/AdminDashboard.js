@@ -127,7 +127,7 @@ const ProductsTab = ({ products, onEdit, onDelete, onAddProduct }) => (
                           <button className="btn btn-sm btn-danger" onClick={() => onDelete(product.id)}>Delete</button>
                       </td>
                   </tr>
-              ))}cd..
+              ))}
           </tbody>
       </table>
   </div>
